@@ -1,20 +1,18 @@
 # Docker_final_project
+## Automation for pull and run dockers
 
+### Displays a menu with options for the user:
 
-Automation that creates and downloads docker
+1.Download Images
 
-Displays a menu with options for the user:
+2.Running Containers
 
-Download photos
+3.Saving Containers IP in logs file
 
-Running containers
+4.Using dockerUI - pull & run & open dockerUI on web browser
 
-Saving in log files
+5.Using mount to display an HTML page
 
-Using dockerUI
+6.Editing an HTML file inside the container
 
-Using mount to display an HTML page
-
-Editing an HTML file inside the container
-
-Deletion of the containers
+7.Deletion of the containers
