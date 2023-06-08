@@ -1,18 +1,13 @@
 # Docker_final_project
 
 
-CRUD REST API using .NET 6
-and dotnet CLI with vsCode
-using ErrorOr package and REST client extenion.
+Automation that creates and downloads docker
 
-Contains 2 projects
-Breakfast.contracts models the definitions of the API.
-
-Breakfast contains the logic of the project
-
-
-I separated the project for:
-
--can defining it as a class library and published it as a nuget package
-
--good for version updates
+Displays a menu with options for the user:
+Download photos
+Running containers
+Saving in log files
+Using dockerUI
+Using mount to display an HTML page
+Editing an HTML file inside the container
+Deletion of the containers
